@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pytest
+pytest-cov
+httpx  # requerido por FastAPI TestClient (starlette >= 0.20)
